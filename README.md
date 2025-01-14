@@ -4,3 +4,8 @@ Nebula engine vortex, V1 build 12
 
 
 another name for Nebula is Sourcified ACS
+features list:
+map loader (with custom prefixes)
+addons system
+and some minor function changes, 
+aswell as some stuff i forgot
